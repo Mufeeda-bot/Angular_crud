@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "FirstName": "Mufeeda",
+      "LastName": "JH",
+      "email": "mufeeda@gmail.com",
+      "dob": "2006-06-13T18:30:00.000Z",
+      "Gender": "Female",
+      "education": "Graduate",
+      "id": "05db"
+    },
+    {
+      "FirstName": "Shiva",
+      "LastName": "Das",
+      "email": "shiva@gmail.com",
+      "dob": "1967-10-17T18:30:00.000Z",
+      "Gender": "Male",
+      "education": "Diploma",
+      "id": "0580"
+    },
+    {
+      "id": "011b",
+      "FirstName": "Anushka",
+      "LastName": "Sharma",
+      "email": "anushka@gmail.com",
+      "dob": "1992-06-25T18:30:00.000Z",
+      "Gender": "Female",
+      "education": "postGraduate"
+    },
+    {
+      "FirstName": "Arun",
+      "LastName": "Shiva",
+      "email": "arun123!@gmail.com",
+      "dob": "2000-06-29T18:30:00.000Z",
+      "Gender": "Male",
+      "education": "Graduate",
+      "id": "50b3"
+    },
+    {
+      "id": "a768",
+      "FirstName": "Ranbir",
+      "LastName": "Kapoor",
+      "email": "ranbir@gmail.com",
+      "dob": "1991-10-09T18:30:00.000Z",
+      "Gender": "Male",
+      "education": "postGraduate"
+    },
+    {
+      "id": "5c6a",
+      "FirstName": "Aliya",
+      "LastName": "Bhatt",
+      "email": "alia@gmail.com",
+      "dob": "1998-12-24T18:30:00.000Z",
+      "Gender": "Female",
+      "education": "Graduate"
+    }
+  ],
+  "user": [
+    {
+      "id": "mufeeda",
+      "name": "Mufeeda",
+      "password": "abc123",
+      "email": "mufeeda@gmail.com",
+      "role": "",
+      "isactive": true
+    }
+  ]
+}
